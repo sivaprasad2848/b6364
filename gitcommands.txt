@@ -1,6 +1,6 @@
 Git Commands
 -----------------------
-git init
+git init - this command is used forinitislization 
 git add
 git commit -n
 git push
