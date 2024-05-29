@@ -1,7 +1,7 @@
 Git Commands
 -----------------------
 git init - this command is used forinitislization 
-git add
+git add- this is used for adding new resource to git
 git commit -n
 git push
 git pull
